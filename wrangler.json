@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "divine-meadow-5cdf",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e0a6dfd0-257d-4b64-bee9-d8c5a52ee585",
+      "database_name": "cool-boat-9212-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
